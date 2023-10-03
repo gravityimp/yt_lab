@@ -14,6 +14,8 @@
 		3F158FF42ACC5D22007EC1AF /* yt_labTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F158FF32ACC5D22007EC1AF /* yt_labTests.swift */; };
 		3F158FFE2ACC5D22007EC1AF /* yt_labUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F158FFD2ACC5D22007EC1AF /* yt_labUITests.swift */; };
 		3F1590002ACC5D22007EC1AF /* yt_labUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F158FFF2ACC5D22007EC1AF /* yt_labUITestsLaunchTests.swift */; };
+		3F15900D2ACC5F86007EC1AF /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F15900C2ACC5F86007EC1AF /* SwiftUIView.swift */; };
+		3F15900F2ACC62C5007EC1AF /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F15900E2ACC62C5007EC1AF /* Functions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		3F158FF92ACC5D22007EC1AF /* yt_labUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yt_labUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F158FFD2ACC5D22007EC1AF /* yt_labUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = yt_labUITests.swift; sourceTree = "<group>"; };
 		3F158FFF2ACC5D22007EC1AF /* yt_labUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = yt_labUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F15900C2ACC5F86007EC1AF /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		3F15900E2ACC62C5007EC1AF /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				3F158FE22ACC5D21007EC1AF /* yt_labApp.swift */,
 				3F158FE42ACC5D21007EC1AF /* ContentView.swift */,
+				3F15900E2ACC62C5007EC1AF /* Functions.swift */,
+				3F15900C2ACC5F86007EC1AF /* SwiftUIView.swift */,
 				3F158FE62ACC5D22007EC1AF /* Assets.xcassets */,
 				3F158FE82ACC5D22007EC1AF /* Preview Content */,
 			);
@@ -259,6 +265,8 @@
 			files = (
 				3F158FE52ACC5D21007EC1AF /* ContentView.swift in Sources */,
 				3F158FE32ACC5D21007EC1AF /* yt_labApp.swift in Sources */,
+				3F15900D2ACC5F86007EC1AF /* SwiftUIView.swift in Sources */,
+				3F15900F2ACC62C5007EC1AF /* Functions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
